@@ -1,5 +1,5 @@
 # Pawstra AI [warning this is beta version]
-
+ 
 A ChatGPT-style desktop chat app built with Python and Tkinter. It supports OpenRouter, OpenAI, Claude, Qwen, DeepSeek, Grok, Gemini, and Ollama (offline).
 
 ## Start
